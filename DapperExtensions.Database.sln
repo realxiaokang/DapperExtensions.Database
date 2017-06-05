@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperExtensions.Database", "DapperExtensions.Database\DapperExtensions.Database.csproj", "{2A9E81F4-211D-4D8E-91EC-830729A462DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperExtensions.Database.Tests", "DapperExtensions.Database.Tests\DapperExtensions.Database.Tests.csproj", "{AB8B34C8-C31C-44EA-AAD3-29F27C76EE1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A9E81F4-211D-4D8E-91EC-830729A462DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A9E81F4-211D-4D8E-91EC-830729A462DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A9E81F4-211D-4D8E-91EC-830729A462DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A9E81F4-211D-4D8E-91EC-830729A462DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB8B34C8-C31C-44EA-AAD3-29F27C76EE1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB8B34C8-C31C-44EA-AAD3-29F27C76EE1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB8B34C8-C31C-44EA-AAD3-29F27C76EE1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB8B34C8-C31C-44EA-AAD3-29F27C76EE1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
